@@ -40,3 +40,7 @@ osd.py [-h] -v FILE -l FILE [-o FILE] [-t TITLE] [-i LOG_NAME,TITLE,UNIT] [-O n]
 ```
 ./osd.py -v beta.mp4 -l beta-05-02.csv -p -t "5.2. 2019" -i "RSSI(dB),RSSI,dB" -i "Alt(m),Alt,m" -i "BatV(V),,V"
 ```
+### Vstupné video
+```
+https://feelmath.eu/Download/beta.mp4
+```
